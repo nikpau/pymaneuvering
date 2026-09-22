@@ -200,8 +200,8 @@ ax.scatter(
 
 ax.axis("equal")
 ax.set_title("Vessel trajectories with rotated transparent ship footprints")
-ax.set_xlabel("East [m]")
-ax.set_ylabel("North [m]")
+ax.set_ylabel("East [m]")
+ax.set_xlabel("North [m]")
 ax.grid(True, linestyle="-", linewidth=0.6, color="#b0b0b0", alpha=0.55)
 ax.minorticks_on()
 ax.grid(which="minor", linestyle="-", linewidth=0.3, color="#d0d0d0", alpha=0.45)
