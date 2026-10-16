@@ -24,5 +24,5 @@ class Vessel:
         else:
             raise ValueError(f"Unknown vessel type: {new_from}")
 
-__version__ = "2.0.0"
+__version__ = "2.0.1"
 __author__ = "Niklas Paulig"
