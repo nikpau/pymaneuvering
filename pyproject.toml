@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=61.0"]
+requires = ["setuptools>=77.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -10,6 +10,8 @@ authors = [
 ]
 description = "A Python implementation of MMG and Abkowitz-type maneuvering models for inland and ocean vessels."
 readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
 classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
