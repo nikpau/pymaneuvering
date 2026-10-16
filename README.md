@@ -115,3 +115,11 @@ You can calibrate custom MMG vessels using the `mmgdynamics.mmg.dynamics.calibra
 
 *   **MMG:** Yasukawa, H., Yoshimura, Y. (2015). Introduction of MMG standard method for ship maneuvering predictions. *J Mar Sci Technol 20*, 37-52. [DOI](https://doi.org/10.1007/s00773-014-0293-y)
 *   **Abkowitz:** Yang, Y., el Moctar, O. (2024). Maneuvering simulation of inland vessels in shallow water. *Ocean Engineering*. [DOI](https://doi.org/10.1016/j.oceaneng.2024.116927)
+
+## License
+
+pymaneuvering is released under the [MIT License](LICENSE). The license covers the source code and the bundled vessel parameter sets, and applies to all versions of the project, including releases published before the LICENSE file was added (e.g. 2.0.0).
+
+Copyright (c) 2022-2026 Niklas Paulig.
+
+Parameter sets derived from published studies should additionally be cited according to the references above.
